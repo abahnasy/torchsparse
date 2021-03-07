@@ -1,6 +1,6 @@
 #include <torch/extension.h>
 #include <ATen/cuda/CUDAContext.h>
-#include <THC/THCBlas.h>
+// #include <THC/THCBlas.h>
 #include <cublas_v2.h>
 #include <cuda.h>
 #include <cuda_runtime.h>
